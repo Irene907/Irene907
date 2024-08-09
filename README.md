@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on front-end development projects, including a personal project called Roadcamp and a group project called Bluealert.
 - 🌱 I’m currently strengthening my JavaScript and Vue skills, planning a side project, and practicing on LeetCode.
 - 📫 How to reach me: You can contact me email iren870907@gmail.com.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m also learning to skateboard and have mastered riding, turning, and pumping!
 
 ### Languages and Tools:
