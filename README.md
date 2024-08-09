@@ -1,11 +1,8 @@
 ## Hi there 👋
-
-**Irene907/Irene907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on front-end development projects, including a personal project called Roadcamp and a group project called Bluealert.
 - 🌱 I’m currently strengthening my JavaScript and Vue skills, planning a side project, and practicing on LeetCode.
 - 🤔 I’m looking for help with advanced front-end techniques and best practices.
-- 📫 How to reach me: You can contact me via email.
+- 📫 How to reach me: You can contact me email.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m also learning to skateboard and have mastered riding, turning, and pumping!
 
