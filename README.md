@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 - 🔭 I’m currently working on front-end development projects, including a personal project called Roadcamp and a group project called Bluealert.
 - 🌱 I’m currently strengthening my JavaScript and Vue skills, planning a side project, and practicing on LeetCode.
