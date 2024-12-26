@@ -1,8 +1,8 @@
 ## Hello!
 
-- 🔭 I have completed two projects so far: a personal project called "Roadcamp" and a group project called "Bluealert." Currently, I'm also working on a new project called "MovieRoll."
-- 🌱 While developing the "MovieRoll" project, I am continuously enhancing my JavaScript and Vue skills and learning Tailwind CSS.
-- 📫 How to reach me: You can contact me email iren870907@gmail.com.
+- I have completed two projects so far: a personal project called "Roadcamp" and a group project called "Bluealert." Currently, I'm also working on a new project called "MovieRoll."
+- While developing the "MovieRoll" project, I am continuously enhancing my JavaScript and Vue skills and learning Tailwind CSS.
+- How to reach me: You can contact me email iren870907@gmail.com.
 
 ### Languages and Tools:
 
